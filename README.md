@@ -1,0 +1,1 @@
+# ruoyi_solo_safe_plat
